@@ -1,2 +1,2 @@
 # starter-unity-project
-a starter unity project for learning purposes
+A starter unity project for learning purposes
